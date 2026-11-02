@@ -1,1 +1,3 @@
 # pong-love
+
+Run: `love .`
